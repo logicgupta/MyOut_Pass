@@ -1,0 +1,14 @@
+#infotext{
+    display: flex;
+    width: 35%;
+    height: 10%;
+    position: absolute;
+    left: 40%;
+    top: 19%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 200%;
+    line-height: 0%;
+    color: rgba(0, 0, 0, 0.87);
+}

@@ -1,0 +1,72 @@
+.rec4{
+    position: absolute;
+    width: 524px;
+    height: 444px;
+    left: 458px;
+    top: 269px;
+    background: #FFFFFF;
+    border: 1px solid #D7D7D7;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.24);
+    border-radius: 6px;
+}
+
+#emailGuard{
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    left: 498px;
+    top: 325px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 0.87);
+    mix-blend-mode: normal;
+    opacity: 0.75;
+}
+
+#formBoxEmailGuard{
+    position: absolute;
+    width: 444px;
+    height: 56px;
+    left: 498px;
+    top: 358px;
+    background: #FFFFFF;
+}
+
+#formBoxPassGuard{
+    position: absolute;
+    width: 444px;
+    height: 56px;
+    left: 498px;
+    top: 472px;
+    background: #FFFFFF;
+}
+
+#forgotPassGuard{
+    position: absolute;
+    width: 150px;
+    height: 21px;
+    left: 792px;
+    top: 544px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #1EAE69;
+    mix-blend-mode: normal;
+    opacity: 0.75;
+}
+
+#logButtonGuard{
+    position: absolute;
+    width: 444px;
+    height: 56px;
+    left: 498px;
+    top: 605px;
+    background: #21BF73;
+    box-shadow: 0px 4px 8px rgba(58, 204, 108, 0.2);
+}

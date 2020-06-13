@@ -1,0 +1,24 @@
+.rec{
+    position: absolute;
+    width: 286px;
+    height: 298px;
+    left: 775px;
+    top: 293px;
+    background: #FBFBFB;
+    border: 0.5px solid rgba(0, 0, 0, 0.37);
+    box-sizing: border-box;
+    border-radius: 7px;
+}
+
+#txt{
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 17%;
+    top: 75%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+}
